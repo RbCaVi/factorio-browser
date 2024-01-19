@@ -1,0 +1,23 @@
+.icon-text {
+  position: absolute;
+  bottom: -3px;
+  right: 2px;
+  color: #fff;
+  font-weight: bold;
+  text-shadow: 0px 1px 1px #000,0px -1px 1px #000,1px 0px 1px #000,-1px 0px 1px #000;
+  pointer-events: none;
+}
+
+.factorio-icon {
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  position: relative;
+  display: inline-block;
+}
+
+.internal-name {
+  padding-left:1em;
+  padding-right:1em;
+  color:grey;
+}
